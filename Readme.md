@@ -2,7 +2,7 @@
     <span>Ui-Clone</span>
 </h1>
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="200px" src="./github/twitch_logo.png" >
+    <img alt="Logo" title="#logo" width="300px" src="./github/twitch_logo.png" >
 </h3>
 
 <p align="center">
