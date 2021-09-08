@@ -41,8 +41,8 @@
 ## Ui-Clone Twitch
 
 - [About](#about)
-- [Techs](#techs)
 - [The Application](#application)
+- [Techs](#techs)
 - [Clone and use for Free](#clone)
 
 <a id="about"></a>
@@ -50,6 +50,14 @@
 ## :interrobang: About
 
 A simple ui clone of the twitch following page
+
+<a id="application"></a>
+
+## :sparkles: The Application
+
+<h1 align="center">
+    <img alt="home" src="./github/followingpage.gif">
+</h1>
 
 <a id="techs"></a>
 
@@ -67,14 +75,6 @@ The project was developed with the technologies below:
 - [React Navigation](https://reactnavigation.org/)
 - [React Native Testing Library](https://testing-library.com/docs/react-native-testing-library/intro/)
 - [Styled Components](https://styled-components.com/)
-
-<a id="application"></a>
-
-## :sparkles: The Application
-
-<h1 align="center">
-    <img alt="home" src="./github/followingpage.gif">
-</h1>
 
 <a id="clone"></a>
 
@@ -98,3 +98,7 @@ The project was developed with the technologies below:
   $ npm install
   $ npm run start
 ```
+
+## :memo: License
+
+This project is under MIT LICENSE. for more details follow the link: [LICENSE](LICENSE).
